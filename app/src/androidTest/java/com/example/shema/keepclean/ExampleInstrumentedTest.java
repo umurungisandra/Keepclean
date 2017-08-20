@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.shema.keepclean", appContext.getPackageName());
+        assertEquals("com.example.shema.rw.mint.rw.mint.rw.mint.keepclean", appContext.getPackageName());
     }
 }
