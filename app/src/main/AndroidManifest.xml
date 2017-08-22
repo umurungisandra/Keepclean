@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.example.shema.keepclean1.com.example.shema.keepclean.MainActivity"
+            android:name="rw.mint.keepclean.rw.mint.keepclean.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
