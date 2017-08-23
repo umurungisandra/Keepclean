@@ -1,4 +1,4 @@
-package com.example.shema.keepclean;
+package rw.minaloc.mint.keepclean;
 
 import org.junit.Test;
 

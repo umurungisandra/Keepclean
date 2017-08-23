@@ -1,4 +1,4 @@
-package com.example.shema.keepclean;
+package rw.minaloc.mint.keepclean;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
