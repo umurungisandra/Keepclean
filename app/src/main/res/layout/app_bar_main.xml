@@ -4,7 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< HEAD
     tools:context="com.example.shema.keepclean1.com.example.shema.keepclean.MainActivity">
+=======
+    tools:context="rw.minaloc.mint.keepclean.MainActivity">
+>>>>>>> 172d9388aee94f867f0b092d5162bb870325d47e
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"

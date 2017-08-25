@@ -4,7 +4,11 @@ android {
     compileSdkVersion 25
     buildToolsVersion "26.0.0"
     defaultConfig {
+<<<<<<< HEAD
         applicationId "rw.mint.keepclean"
+=======
+        applicationId "com.example.shema.rw.mint.rw.mint.rw.mint.keepclean"
+>>>>>>> 172d9388aee94f867f0b092d5162bb870325d47e
         minSdkVersion 15
         targetSdkVersion 25
         versionCode 1

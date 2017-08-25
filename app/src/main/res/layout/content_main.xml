@@ -5,7 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
+<<<<<<< HEAD
     tools:context="com.example.shema.keepclean1.com.example.shema.keepclean.MainActivity"
+=======
+    tools:context="rw.minaloc.mint.keepclean.MainActivity"
+>>>>>>> 172d9388aee94f867f0b092d5162bb870325d47e
     tools:showIn="@layout/app_bar_main">
 
     <TextView

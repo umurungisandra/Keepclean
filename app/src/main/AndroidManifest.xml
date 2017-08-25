@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="rw.mint.keepclean">
+=======
+    package="rw.minaloc.mint.keepclean">
+>>>>>>> 172d9388aee94f867f0b092d5162bb870325d47e
 
     <application
         android:allowBackup="true"
@@ -10,7 +14,11 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+<<<<<<< HEAD
             android:name="rw.mint.keepclean.rw.mint.keepclean.MainActivity"
+=======
+            android:name="rw.minaloc.mint.keepclean.MainActivity"
+>>>>>>> 172d9388aee94f867f0b092d5162bb870325d47e
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
